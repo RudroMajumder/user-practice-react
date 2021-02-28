@@ -1,0 +1,10 @@
+.user-div{
+    border:1px solid red;
+    padding: 10px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+.user-img{
+    border-radius: 50%;
+}

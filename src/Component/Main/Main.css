@@ -1,0 +1,16 @@
+.main{
+    display:flex;
+    margin-top: 20px;
+}
+.user{
+    width:70%;
+    margin-left: 10%;
+    margin-right:10px;
+    border-right: 5px solid lightgrey;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap:10px;
+}
+.info-container{
+    width: 20%;
+}
